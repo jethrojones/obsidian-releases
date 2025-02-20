@@ -15427,5 +15427,12 @@
     "description": "Support uploading files to different platforms.",
     "repo": "Appleec/e-obsidian-upload-plugin"
   }
+   {
+    "id": "createThread",
+    "name": "Create Thread",
+    "author": "jethrojones",
+    "description": "Allows you to turn your note into a twitter thread.",
+    "repo": "jethrojones/threadCreator"
+   }
 ]
 
